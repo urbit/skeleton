@@ -3,7 +3,9 @@ a boilerplate for building Urbit app
 
 ## Using
 ```git clone git@github.com:urbit/skeleton.git <your-app-name>```
+
 ```git remote set-url origin git@github.com:urbit/<your-app-name>.git```
+
 ```git push origin master```
 
 ### Choosing app type
