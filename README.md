@@ -1,5 +1,5 @@
 # skeleton
-a boilerplate for building Urbit app
+a boilerplate for building an Urbit app
 
 ## Using
 ```git clone git@github.com:urbit/skeleton.git <your-app-name>```
